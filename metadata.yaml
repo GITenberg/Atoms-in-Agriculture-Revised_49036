@@ -1,10 +1,16 @@
 _repo: Atoms-in-Agriculture-Revised_49036
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49036-h/images/cover.jpg
 creator:
   author:
     agent_name: Osborne, Thomas S.
     gutenberg_agent_id: '45102'
     url: http://www.gutenberg.org/2009/agents/45102
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49036#Atoms-in-Agriculture-Revised
 gutenberg_issued: '2015-05-23'
 gutenberg_type: Text
 identifiers:
